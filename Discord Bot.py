@@ -1251,5 +1251,5 @@ async def connect4(ctx,player=""):
 
 
 ###################################  BOT TOKEN  ###################################
-bot.run('MzExMzUxMDU1MzExMTc1Njgx.DIplNw.5V8gre-p5NWb_uD-AtSm0xfpAvc')
+bot.run('*******************************************************')
 
